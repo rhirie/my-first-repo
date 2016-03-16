@@ -2,4 +2,3 @@ milk
 eggs
 butter
 bicycles
-gears
